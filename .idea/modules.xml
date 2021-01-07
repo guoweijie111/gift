@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wbb.iml" filepath="$PROJECT_DIR$/wbb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wbb-boss/wbb-boss.iml" filepath="$PROJECT_DIR$/wbb-boss/wbb-boss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wbb-common/wbb-common.iml" filepath="$PROJECT_DIR$/wbb-common/wbb-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wbb-framework/wbb-framework.iml" filepath="$PROJECT_DIR$/wbb-framework/wbb-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wbb-system/wbb-system.iml" filepath="$PROJECT_DIR$/wbb-system/wbb-system.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wbb-common" />
+        <module name="wbb-system" />
+        <module name="wbb-boss" />
+        <module name="wbb-framework" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wbb" target="1.8" />
+      <module name="wbb-boss" target="1.8" />
+      <module name="wbb-common" target="1.8" />
+      <module name="wbb-framework" target="1.8" />
+      <module name="wbb-system" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

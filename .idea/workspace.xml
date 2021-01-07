@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acc1af77-e696-49a2-8629-76b9faee9424" name="Default" comment="麦亚信礼品券" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="SHOW_TAGS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.0-syberway (1)/apache-maven-3.5.0-syberway" />
+        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i4zSzCvglWPaQ8yT17gbE6b86X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="test&#9;FILE&#9;file://E:/wbb-boss-api-master/wbb-boss/src/main/java/com/wbb/tool/swagger/TestController.java&#10;tes&#9;FILE&#9;file://E:/wbb-boss-api-master/wbb-boss/src/main/java/com/wbb/tool/swagger/TestController.java&#10;Test&#9;PSI&#9;JAVA://com.wbb.tool.swagger.TestController&#10;ExcelUtil&#9;FILE&#9;file://E:/wbb-boss-api-master/wbb-framework/src/main/java/com/wbb/framework/utils/poi/ExcelUtil.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../parent" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wbb.gift.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wbb-boss-api-master\sql" />
+      <recent name="E:\wbb-boss-api-master\wbb-boss\src\main\java\com\wbb\gift\controller" />
+      <recent name="E:\wbb-boss-api-master\wbb-system\src\main\java\com\wbb\sys\gift\service\impl" />
+      <recent name="E:\wbb-boss-api-master\wbb-system\src\main\java\com\wbb\sys\gift\service" />
+      <recent name="E:\wbb-boss-api-master\wbb-system\src\main\java\com\wbb\sys\gift\domain" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WbbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wbb-boss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wbb.WbbApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acc1af77-e696-49a2-8629-76b9faee9424" name="Default" comment="" />
+      <created>1600916958237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600916958237</updated>
+      <workItem from="1600916962649" duration="1086000" />
+      <workItem from="1600918110010" duration="6000" />
+      <workItem from="1600918177538" duration="21193000" />
+      <workItem from="1600951650979" duration="1159000" />
+      <workItem from="1600953278173" duration="8591000" />
+      <workItem from="1600993433358" duration="8781000" />
+      <workItem from="1601002277750" duration="20506000" />
+      <workItem from="1601044825028" duration="1402000" />
+      <workItem from="1601098930442" duration="5256000" />
+      <workItem from="1601167557993" duration="3968000" />
+      <workItem from="1601174841202" duration="2115000" />
+      <workItem from="1601181661446" duration="8169000" />
+      <workItem from="1603157416799" duration="613000" />
+      <workItem from="1604884413077" duration="1312000" />
+      <workItem from="1609831766055" duration="28442000" />
+      <workItem from="1610001859523" duration="4223000" />
+    </task>
+    <task id="LOCAL-00001" summary="麦亚信礼品券">
+      <created>1609986182244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609986182244</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="麦亚信礼品券" />
+    <option name="LAST_COMMIT_MESSAGE" value="麦亚信礼品券" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="329" y="24" key="#HTTP_Proxy" timestamp="1610000506587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="329" y="24" key="#HTTP_Proxy/0.0.1366.728@0.0.1366.728" timestamp="1610000506587" />
+    <state x="230" y="0" key="CommitChangelistDialog2" timestamp="1609986028985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="230" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1609986028985" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1610002101175">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1610002101175" />
+    <state x="488" y="150" key="FileChooserDialogImpl" timestamp="1609840892685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="150" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609840892685" />
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604886568771" />
+    <state width="182" height="278" key="Git.Branch.Popup" timestamp="1610003432374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="182" height="278" key="Git.Branch.Popup/0.0.1366.728@0.0.1366.728" timestamp="1610003432374" />
+    <state width="802" height="220" key="GridCell.Tab.0.bottom" timestamp="1610001655386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="802" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610001655386" />
+    <state width="802" height="220" key="GridCell.Tab.0.center" timestamp="1610001655386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="802" height="220" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610001655386" />
+    <state width="802" height="220" key="GridCell.Tab.0.left" timestamp="1610001655386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="802" height="220" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610001655386" />
+    <state width="802" height="220" key="GridCell.Tab.0.right" timestamp="1610001655386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="802" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610001655386" />
+    <state width="1322" height="160" key="GridCell.Tab.1.bottom" timestamp="1610001655266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="160" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610001655266" />
+    <state width="1322" height="160" key="GridCell.Tab.1.center" timestamp="1610001655266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="160" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1610001655266" />
+    <state width="1322" height="160" key="GridCell.Tab.1.left" timestamp="1610001655266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="160" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1610001655266" />
+    <state width="1322" height="160" key="GridCell.Tab.1.right" timestamp="1610001655266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="160" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1610001655266" />
+    <state x="263" y="216" key="MavenRunHelper.GoalEditor" timestamp="1609843723547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="216" key="MavenRunHelper.GoalEditor/0.0.1366.728@0.0.1366.728" timestamp="1609843723547" />
+    <state x="240" y="0" key="SettingsEditor" timestamp="1610001646190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="240" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610001646190" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604886485453" />
+    <state x="577" y="62" key="VCS.ChangeListViewerDialog" timestamp="1610006096479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="577" y="62" key="VCS.ChangeListViewerDialog/0.0.1366.728@0.0.1366.728" timestamp="1610006096479" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1610006405279">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610006405279" />
+    <state x="356" y="100" key="VcsDiffUtil.ChangesDialog" timestamp="1610002066759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="356" y="100" key="VcsDiffUtil.ChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1610002066759" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1604884434555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1604884434555" />
+    <state x="370" y="119" width="641" height="490" key="find.popup" timestamp="1610002291930">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="370" y="119" width="641" height="490" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1610002291930" />
+    <state x="384" y="165" key="git4idea.merge.GitPullDialog" timestamp="1610006039487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="165" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1610006039487" />
+    <state x="525" y="234" key="git4idea.rebase.GitRebaseDialog" timestamp="1610006100544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="525" y="234" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728@0.0.1366.728" timestamp="1610006100544" />
+    <state x="107" y="49" key="new project wizard" timestamp="1609922998909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="107" y="49" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1609922998909" />
+    <state x="178" y="116" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1604886474585" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wbb-boss/src/main/java/com/wbb/gift/controller/GiftExpressAppController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
